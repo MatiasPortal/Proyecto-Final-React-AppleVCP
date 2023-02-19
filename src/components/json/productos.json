@@ -1,0 +1,128 @@
+[
+    {
+        "nombre":"IPHONE 8 PLUS 128GB",
+        "precio": 500,
+        "img": "https://itunelab.co.ke/wp-content/uploads/2022/09/iphone-8-plus-product-red-300x300.jpg",
+        "cantidad": 4,
+        "id": 1,
+        "descripcion": "El Apple iPhone 8 Plus conserva la misma pantalla de su antecesor, con 5.5 pulgadas a resolución Full HD, con un nuevo diseño que combina aluminio con vidrio adelante y atrás. Por dentro, el iPhone 8 Plus está potenciado por el nuevo procesador A11 Bionic. El iPhone 8 Plus vuelve a contar con una cámara dual de 12 MP, con zoom óptico 2X, y aperturas combinables para efectos de fotografía y slow motion en 1080p y agrega soporte para carga inalámbrica en su batería con el mismo rendimiento que en el iPhone 7 Plus.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"IPHONE X 64GB",
+        "precio": 530,
+        "img": "https://itunelab.co.ke/wp-content/uploads/2022/09/iphone-x-space-gray-300x300.jpg",
+        "cantidad": 6,
+        "id": 2,
+        "descripcion": "El Apple iPhone X es una demostración de fuerza de Apple, mostrando lo que es capaz de hacer y para celebrar los 10 años del iPhone. El iPhone X cuenta con una pantalla de 5.8 pulgadas que abarca todo el frente del teléfono, dejando un espacio arriba para acomodar todos los sensores que contribuyen a Face ID, el nuevo método de desbloqueo por rostro, ya que el botón Touch ID desaparece. Con una atípica resolución de 2436 x 1125 pixels, acomoda 458ppi. Por dentro, el iPhone X tiene el nuevo procesador A11 Bionic. La cámara es dual de 12 MP similar a la del iPhone 8",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"Cargador Apple 20W TIPO C",
+        "precio": 45,
+        "img": "https://cdn-ipoint.waugi.com.ar/24071-medium_default/20w-usb-c-power-adapter.jpg",
+        "cantidad": 10,
+        "id": 3,
+        "descripcion": "El adaptador de corriente USB-C de 20 W de Apple es muy rápido y eficiente, así que va de perlas para cargar tus dispositivos en cualquier lugar. Aunque es compatible con cualquier dispositivo con USB-C, Apple recomienda usarlo con el iPad Pro y el iPad Air para lograr un rendimiento óptimo.",
+        "categoria":"accesorios"
+    },
+    {
+        "nombre":"AirPods - 3ra Generación",
+        "precio": 225,
+        "img": "https://cdn-ipoint.waugi.com.ar/22253-medium_default/airpods-3ra-generacion.jpg",
+        "cantidad": 5,
+        "id": 4,
+        "descripcion": "Ecualización Adaptativa que ajusta la música según la forma de tus oídos, mayor duración de la batería, resistencia al agua y al sudor. Prepárate para una experiencia llena de magia.",
+        "categoria":"accesorios"
+    },
+    {
+        "nombre":"IPHONE XR",
+        "precio": 550,
+        "img": "https://itechstore.com.ar/wp-content/uploads/2022/10/Apple-iPhone-XR-128GB-Black-300x300.jpeg",
+        "cantidad": 7,
+        "id": 5,
+        "descripcion": "El Apple iPhone XR llega en el 2018 para reemplazar definitivamente el botón Touch ID en el iPhone. reemplazando a los modelos clásicos del iPhone, el iPhone XR tiene una pantalla LCD de 6.1 pulgadas de borde a borde con notch incluido y resolución Retina. El iPhone Xr está potenciado por el procesador A12 Bionic con 64GB, 128GB o 256GB de almacenamiento interno, y cuenta con una cámara de 12 megapixels, cámara frontal de 7 megapixels, carga inalámbrica y certificación IP67 a prueba de agua, disponible en una variedad enorme de colores.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"IPHONE SE SERIE 3",
+        "precio": 680,
+        "img": "https://itechstore.com.ar/wp-content/uploads/2020/09/se-2-300x300.jpeg",
+        "cantidad": 3,
+        "id": 6,
+        "descripcion": "El iPhone SE viene con el chip A15 Bionic, el mismo chip super potente que trae el iPhone 13. El chip A15 Bionic mejora prácticamente todo lo que haces con el iPhone. Las apps se cargan al instante y funcionan con total fluidez.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"Cable De Carga Usb-C 2m",
+        "precio": 30,
+        "img": "https://cdn-ipoint.waugi.com.ar/24867-medium_default/cable-de-carga-usb-c-2m.jpg",
+        "cantidad": 12,
+        "id": 7,
+        "descripcion": "Este cable de carga de 2 metros, con conectores USB-C en ambos extremos, es ideal para cargar, sincronizar y transferir datos entre dispositivos USB-C. Conecta el cable de carga USB-C a un adaptador de corriente USB-C compatible para cargar fácilmente tus dispositivos desde un enchufe y aprovechar la funcionalidad de carga rápida. Los adaptadores de corriente USB-C se venden por separado.",
+        "categoria":"accesorios"
+    },
+    {
+        "nombre":"IPHONE 11 128GB",
+        "precio": 850,
+        "img": "https://itechstore.com.ar/wp-content/uploads/2020/05/MWLT2LE-A-300x300.jpg",
+        "cantidad": 5,
+        "id": 8,
+        "descripcion": "Nada menos que todo lo que quieres. Graba videos 4K y captura retratos y paisajes espectaculares con el nuevo sistema de dos cámaras. Toma fotos increíbles en situaciones de poca luz con el modo Noche. Disfruta de colores reales en las fotos, videos y juegos con la pantalla Liquid Retina de 6,1 pulgadas.3 Aprovecha un rendimiento sin precedentes en los juegos, la realidad aumentada y la fotografía con el chip A13 Bionic. Haz mucho más sin necesidad de volver a cargar el teléfono gracias a una batería para todo el día.2 Y no te preocupes si se moja, el iPhone 11 tiene una resistencia al agua de hasta 30 minutos a una profundidad máxima de 2 metros.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"IPHONE 11 PRO 64GB",
+        "precio": 940,
+        "img": "https://itunelab.co.ke/wp-content/uploads/2022/09/refurb-iphone-11-pro-midnight-green-2019-300x300.jpg",
+        "cantidad": 3,
+        "id": 9,
+        "descripcion": "El Apple iPhone 11 Pro es el sucesor del iPhone Xs. Con una pantalla OLED Super Retina XDR, el iPhone 11 Pro está potenciado por un procesador A13 Bionic de Apple, con opciones de almacenamiento de 64GB, 256GB o 512GB. La cámara posterior del iPhpne 11 Pro es triple, de 12 MP + 12 MP + 12 MP, mientras que su cámara frontal también es de 12 MP. El iPhone 11 Pro también tiene parlantes stereo con sonido Dolby Atmos, batería con carga rápida e inalámbrica, resistencia al agua, desbloqueo facial Face ID y Apple Pay.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"Auriculares EarPods con conector Lightning",
+        "precio": 30,
+        "img": "https://cdn-ipoint.waugi.com.ar/24785-medium_default/auriculares-earpods-con-conector-lightning.jpg",
+        "cantidad": 8,
+        "id": 10,
+        "descripcion": "A diferencia de los audífonos circulares tradicionales, el diseño de los EarPods está definido por la geometría del oído. Esto los hace más cómodos de usar que cualquier otro audífono similar.",
+        "categoria":"accesorios"
+    },
+    {
+        "nombre":"IPHONE 12 256GB",
+        "precio": 1000,
+        "img": "https://itechstore.com.ar/wp-content/uploads/2020/12/iphone-12-blue-select-2020-300x300.png",
+        "cantidad": 2,
+        "id": 11,
+        "descripcion": "El iPhone 12 tiene el chip A14 Bionic, el más rápido en un smartphone. Una pantalla OLED de borde a borde. Un nuevo frente de Ceramic Shield, cuatro veces más resistente a las caídas. Además, ahora el modo Noche viene en todas las cámaras. El iPhone 12 lo tiene todo. Y está disponible en dos tamaños perfectos.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"IPHONE 13 MINI 128GB",
+        "precio": 1200,
+        "img": "https://itunelab.co.ke/wp-content/uploads/2022/09/iphone-13-mini-product-red-select-2021_1_1-300x300.png",
+        "cantidad": 6,
+        "id": 12,
+        "descripcion": "El Apple iPhone 13 mini representa una mínima iteración con respecto al iPhone 12 mini del año pasado. Con la misma pantalla OLED Super Retina XDR de 5.4 pulgadas, el notch que aloja Face ID se reduce un 20 por ciento. Por dentro, encontramos al nuevo Apple A15 Bionic con opciones de 128GB, 256GB, o 512GB de almacenamiento. El iPhone 13 mini tiene una cámara dual con dos sensores de 12MP, wide y ultrawide respectivamente, con estabilización IBIS, mientras que la cámara selfie también es dual, con un sensor de 12MP y un sensor TrueDepth. El iPhone 13 mini completa sus características con parlantes stereo, batería de carga rápida con hasta 17 horas de autonomía, rating IP68 de resistencia al polvo y agua, y conectividad 5G con más bandas.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"IPHONE 14 128GB",
+        "precio": 1500,
+        "img": "https://itechstore.com.ar/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-29-at-10.31.24-2-300x300.jpeg",
+        "cantidad": 8,
+        "id": 13,
+        "descripcion": "El Apple iPhone 14 llega este año con el mismo chip A15 Bionic del iPhone 13. Con una pantalla de 6.1 pulgadas, el iPhone 14 cuenta con una cámara dual con dos sensores de 12MP, siendo el principal estabilizado. La cámara selfie es de 12MP y suma PDAF y la batería puede cargarse en forma inalámbrica mediante MagSafe o por cable, logrando una carga de 50% en 30 minutos. El iPhone 14 también cuenta con parlantes stereo, Face ID, sistema de mensajería de emergencia vía satélite, y resiste el polvo y agua.",
+        "categoria":"iphones"
+    },
+    {
+        "nombre":"IPHONE 14 PRO MAX 256GB",
+        "precio": 1900,
+        "img": "https://itechstore.com.ar/wp-content/uploads/2022/12/principal-300x300.jpeg",
+        "cantidad": 3,
+        "id": 14,
+        "descripcion": "El Apple iPhone 14 Pro Max es el iPhone más grande y poderoso de la serie 14. Potenciado por el nuevo procesador Apple A16 Bionic, el iPhone 14 Pro Max cuenta con una pantalla OLED LTPO de 6.7 pulgadas con soporte always-on y un nuevo notch en forma de píldora que se integra a iOS con las notificaciones. La cámara trasera es triple y la cámara principal del conjunto es de 48MP con estabilización por sensor, sumando cámaras ultrawide y telefoto de 12MP. El iPhone 14 Pro Max soporta carga inalámbrica, resiste al polvo y agua, tiene parlantes stereo, soporta el sistema de mensajería de emergencia vía satélite de Apple.",
+        "categoria":"iphones"
+    }
+]

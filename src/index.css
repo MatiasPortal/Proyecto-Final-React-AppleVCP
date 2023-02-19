@@ -34,3 +34,17 @@ code {
   margin-top: 15px;
   line-height: 0%;
 }
+
+.agregarCarrito {
+  padding: 8px;
+  border-radius: 100px;
+  border: 2px solid;
+  margin-left: 20px;
+  background-color: rgb(32, 31, 31);
+  font-weight: 500;
+  color: rgb(215, 212, 212);
+}
+
+.btnCount {
+  width: 50px;
+}
